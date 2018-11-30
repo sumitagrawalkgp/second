@@ -1,1 +1,2 @@
+something changed
 hello this is second commit
