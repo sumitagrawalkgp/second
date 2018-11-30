@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-something again chnaged
-something changed
-=======
-something i have changed 
->>>>>>> 81513dd7eb131cc51f29bc5cb7433db1812b85e7
+
 hello this is second commit
